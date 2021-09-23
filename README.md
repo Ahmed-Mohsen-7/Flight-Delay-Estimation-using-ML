@@ -7,4 +7,4 @@ Also, there are multiple libraries that should be installed before running the m
 
 # Runnig main.py
 
-using any IDE, the code is ready to print the results for the all ML models. Just execute the code with the required libraries installed. 
+Using any IDE, the code is ready to print the results for the all ML models. Just execute the code with the required libraries installed. 
